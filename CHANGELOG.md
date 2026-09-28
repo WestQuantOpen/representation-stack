@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] — 2026-09-28
+
+### Added
+- Unified PowerPoint slide decks with the WQT20 visual style.
+- Contest notebooks alongside each slide deck for reproducible demonstrations.
+
+### Changed
+- Moved the canonical project to `WestQuantOpen/representation-stack`.
+- Corrected package, citation, and ecosystem metadata for the public release.
+- Synchronized the runtime package version with the distribution version.
+
 ## [1.1.0] — 2026-09-24
 
 ### Added

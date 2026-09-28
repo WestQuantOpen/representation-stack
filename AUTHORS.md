@@ -22,9 +22,9 @@ If you use this software, please cite it using the metadata in
 @software{vesterlund_westquant_qoolqit_2025,
   author       = {Vesterlund, David},
   title        = {WestQuant Representation Stack for QoolQit},
-  year         = {2025},
-  version      = {1.1.0},
-  url          = {https://github.com/VesterlundCoder/QoolQit},
+  year         = {2026},
+  version      = {1.2.0},
+  url          = {https://github.com/WestQuantOpen/representation-stack},
   license      = {Apache-2.0}
 }
 ```
